@@ -33,9 +33,9 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 
-🚀 Запуск проекту
-python main.py
-python teh2.py
+## 🚀 Запуск проекту
+- python main.py
+- python teh2.py
 
-main.py - Задача 1
-teh2.py - Задача 2
+- main.py - Задача 1
+- teh2.py - Задача 2
